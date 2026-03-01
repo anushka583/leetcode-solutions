@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka583/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anushka583/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Database
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushka583/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anushka583/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anushka583/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/anushka583/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Breadth-First Search
 |  |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/anushka583/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/anushka583/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anushka583/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
+| [0262-trips-and-users](https://github.com/anushka583/leetcode-solutions/tree/master/0262-trips-and-users) |
 ## Math
 |  |
 | ------- |
